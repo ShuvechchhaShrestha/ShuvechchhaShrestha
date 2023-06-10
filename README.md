@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShuvechchhaShrestha
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning pythom
+- 🌱 I’m currently learning python and many more
 - 💞️ I’m looking to collaborate on your programming journey
 - 📫 How to reach me "shuvechchha.shrestha7@gmail.com"
 <!---
